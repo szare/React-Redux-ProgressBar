@@ -9,7 +9,7 @@
 5. **Run the app.** - `npm start -s`
 This will run the automated build process, start up a webserver, and open the application in your default browser. 
 Note: The -s flag is optional. It enables silent mode which suppresses unnecessary messages during the build.
-6. **production build.** - `npm run build`: This will create the production files including the bundle.js which all js modules, css, jpg and saas files are bundled to this file.
+6. **production build.** - `npm run build` This will create the production files including the bundle.js which all js modules, css, jpg and saas files are bundled to this file.
 
 
 ###Production Dependencies
