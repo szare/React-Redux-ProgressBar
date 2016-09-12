@@ -1,6 +1,10 @@
-# This Progress Bar is built on React, Redux, ES6 and....
-[Demo: React Redux Progress Bar](http://www.radhoosh.ir/react-redux-progressbar) 
+# This Progress Bar is built on React, Redux, and ES6 
+###This Progress Bar is created using reactjs by implementation like a real commercial project. Every section is a CommonJS module and all modules will be bundled by Webpack to bundle.js.
+As ES6 does not supported by all devices and browsers, I have changed the webpack config to compile the output to ES5, so all browsers will show the output properly.
+All js, css, scss, png and jpg files will bundled on the bundle.js file.
 
+##[Demo: React Redux Progress Bar](http://www.progressbar.radhoosh.ir) 
+![alt tag](https://github.com/szare/React-Redux-ProgressBar/blob/master/demo.png)
 ## Installation
 1. **Install [Node 6](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
 2. **Clone this repository.** - `git clone https://github.com/szare/React-Redux-ProgressBar.git` or [download the zip](https://github.com/szare/React-Redux-ProgressBar/archive/master.zip)
