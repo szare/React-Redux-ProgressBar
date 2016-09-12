@@ -1,6 +1,6 @@
 # This Progress Bar is built on React, Redux, and ES6 
-###This Progress Bar is created using reactjs by implementation like a real commercial project. Every section is a CommonJS module and all modules will be bundled by Webpack to bundle.js.
-As ES6 does not supported by all devices and browsers, I have changed the webpack config to compile the output to ES5, so all browsers will show the output properly.
+###This Progress Bar is created using reactjs by implementation like a real commercial project. Every section is a CommonJS module and all modules will be bundled by Webpack to bundle.js
+As web browsers don't supported ES6 completely, I have changed the webpack config to compile the output to ES5, so all browsers will show the output properly.
 All js, css, scss, png and jpg files will bundled on the bundle.js file.
 
 ##[Demo: React Redux Progress Bar](http://www.progressbar.radhoosh.ir) 
